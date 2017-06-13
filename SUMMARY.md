@@ -8,6 +8,7 @@
 * [统一监控平台](monitor_platform.md)
 * [前沿技术](last_tech.md)
   1. [分布式中间件研究](distributed_middleware.md)
-  2. [低延迟技术研究](low_latency_comm.md)  
+  2. [低延迟技术研究](low_latency_comm.md)
+  3. [区块链技术研究](blockchain.md)
 * [挑战与机遇](challenge-and-chances.md)
 
