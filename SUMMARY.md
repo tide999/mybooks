@@ -10,6 +10,6 @@
   * [分布式中间件研究](distributed_middleware.md)
   * [低延迟技术研究](low_latency_comm.md)
   * [区块链技术研究](blockchain.md)
-* [挑战与机遇](challenge-and-chances.md)
+* [分布式一致性](challenge-and-chances.md)
 * [分布式数据库的挑战](fen-bu-shi-shu-ju-ku-de-tiao-zhan.md)
 
